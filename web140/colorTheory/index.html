@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Theory Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO SECTION -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Color Theory in Web Design</h1>
+      <p>Learn how colors influence design, harmony, and accessibility.</p>
+    </div>
+  </header>
+
+  <!-- INTRODUCTION SECTION -->
+  <section id="intro">
+    <h2>About Color Theory</h2>
+    <p>
+      Color theory is the foundation of visual design. Understanding color combinations and harmonies helps designers create aesthetically pleasing and accessible websites.
+      Accessibility ensures that all users, including those with visual impairments, can read and interact with your content.
+    </p>
+    <div class="intro-images">
+      <img src="https://via.placeholder.com/200x150?text=Color+Wheel" alt="Color Wheel">
+      <img src="https://via.placeholder.com/200x150?text=Example+Design" alt="Design Example">
+    </div>
+  </section>
+
+  <!-- INTERACTIVE COLOR PALETTE SECTION -->
+  <section id="palette-section">
+    <h2>Interactive Color Palettes</h2>
+    <p>Select a palette to see how colors look in real web components:</p>
+    
+    <div class="buttons">
+      <button data-palette="1">Palette 1</button>
+      <button data-palette="2">Palette 2</button>
+      <button data-palette="3">Palette 3</button>
+      <button data-palette="4">Palette 4</button>
+    </div>
+
+    <div class="palette-preview">
+      <!-- Color blocks -->
+      <div class="color-block" id="color1"></div>
+      <div class="color-block" id="color2"></div>
+      <div class="color-block" id="color3"></div>
+    </div>
+
+    <div class="hex-display" id="hex-display">HEX Codes will appear here</div>
+
+    <!-- Example Card using selected palette -->
+    <div class="example-card">
+      <h3>Sample Card</h3>
+      <p>This is how text and buttons would look with the selected palette.</p>
+      <button class="sample-button">Click Me</button>
+    </div>
+  </section>
+
+  <!-- STUDENT SUBMISSION TABLE -->
+  <section id="submission">
+    <h2>Submit Your Palettes</h2>
+    <p>Fill in your own color palettes below:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Palette #</th>
+          <th>Colors (HEX or RGB)</th>
+          <th>Harmony Type</th>
+          <th>Rationale</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- INSTRUCTIONS -->
+  <section id="instructions">
+    <h2>Instructions</h2>
+    <ol>
+      <li>Use Coolors.co or Adobe Color to create 3 different color palettes.</li>
+      <li>Fill in the table with:
+        <ul>
+          <li>Color codes (HEX or RGB)</li>
+          <li>Harmony type (e.g., complementary, analogous)</li>
+          <li>Rationale for your choice</li>
+        </ul>
+      </li>
+      <li>Ensure palettes consider accessibility and readability.</li>
+    </ol>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>Color Theory Project Template – Web Design Practice</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
