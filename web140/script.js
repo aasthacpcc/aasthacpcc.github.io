@@ -1,7 +1,7 @@
 // Project Links – students should replace with their own URLs
 const assignmentLinks = {
   htmlProject: "assignment1/index.html",
-  colorTheory: "https://example.com/color-theory",
+  colorTheory: "colorTheory/index.html",
   typography: "https://example.com/typography",
   imageEditing: "https://example.com/image-editing-showcase",
   figma: "https://www.figma.com/proto/your-prototype-link",
