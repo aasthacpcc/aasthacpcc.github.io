@@ -2,15 +2,15 @@
 
 ---
 
-## Objective
+## **Objective**
 
 Practice designing multiple web mockups using different typography combinations. Understand how font choice, pairing, and hierarchy affect readability, visual appeal, and mood.
 
 ---
 
-## Instructions
+## **Instructions**
 
-### Part 1 — Create Multiple Mockups
+### **Part 1 — Create Multiple Mockups**
 
 1. Create a single HTML page (`index.html`).
 2. Include **four separate mockup sections** on the same page. Each mockup should demonstrate a unique typography combination:
@@ -23,7 +23,7 @@ Practice designing multiple web mockups using different typography combinations.
 
 ---
 
-### Part 2 — Style Each Mockup
+### **Part 2 — Style Each Mockup**
 
 * Use **external CSS (`style.css`)** or `<style>` in the `<head>`.
 * Example CSS properties to consider:
@@ -38,68 +38,51 @@ Practice designing multiple web mockups using different typography combinations.
 
 ---
 
-### Part 3 — Interactive Font Switching (Optional)
+### **Part 3 — Interactive Font Switching (Optional)**
 
 * Add **buttons** to each mockup to allow switching font combinations using JavaScript (`script.js`).
 * Students can experiment with different font pairings without changing the CSS manually.
 
 ---
 
-### Part 4 — Explanation
+### **Part 4 — Submit Your Typography Table**
 
-* Below each mockup, add a short paragraph or HTML comment explaining:
+1. Create a **table in `index.html`** summarizing each mockup:
 
-  * Why you chose each font combination
-  * How the fonts complement each other
-  * What mood or style the combination conveys
+   * Mockup #
+   * Fonts used for Heading, Subheading, Paragraph, Navigation
+   * Explanation for each choice
+   * Mood or tone created by the combination
+2. This table should clearly show **your rationale for all font decisions**.
 
-Example:
+Example Table Format:
 
-```html
-<!--
-Mockup 1:
-Heading: Libre Baskerville — elegant and strong
-Subheading: Poppins — modern contrast
-Paragraph: Roboto — readable body text
-Navigation: Montserrat — clear and stylish
-Mood: Professional and clean
--->
-```
+| Mockup # | Heading Font      | Subheading Font | Paragraph Font | Navigation Font | Rationale                              | Mood/Tone            |
+| -------- | ----------------- | --------------- | -------------- | --------------- | -------------------------------------- | -------------------- |
+| 1        | Libre Baskerville | Poppins         | Roboto         | Montserrat      | Heading is elegant, paragraph readable | Professional & clean |
+| 2        | Lobster           | Raleway         | Open Sans      | Poppins         | Playful combination                    | Creative & modern    |
 
 ---
 
-### Part 5 — Submission
+### **Part 5 — Submission**
 
 * Submit **all files** in a folder:
 
-  * `index.html`
+  * `index.html` (with mockups and table)
   * `style.css`
   * `script.js` (optional)
 * Ensure the page displays correctly in a browser.
 
 ---
 
-## Grading Criteria
-
-| Criteria                                      | Points |
-| --------------------------------------------- | ------ |
-| Four distinct mockups with different fonts    | 4      |
-| Font pairings show intentional design choices | 4      |
-| Explanations are clear and reflective         | 2      |
-| Overall layout is clean and readable          | 2      |
-
-**Total: 12 points**
-
----
-
-## Tips for Students
+## **Tips for Students**
 
 * Focus on **contrast and readability**.
 * Consider **font hierarchy** (headings vs. paragraphs).
-* Use **Google Fonts** for a wide variety of options.
-* Each mockup should look like a mini real webpage section.
-* Experiment with **color and spacing** to enhance typography impact.
+* Each mockup should look like a **mini real webpage section**.
+* Document **why fonts were chosen** and how they complement each other.
+* Use **interactive buttons** to explore combinations if implemented.
 
 ---
 
-This assignment encourages students to **experiment, observe, and justify typography choices** while providing an interactive element to see multiple combinations quickly.
+This assignment encourages students to **experiment with font pairings**, **observe hierarchy**, and **justify typography choices** while providing a clear visual presentation of their decisions.
