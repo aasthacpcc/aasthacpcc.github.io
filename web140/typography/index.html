@@ -1,66 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Advanced Typography Assignment</title>
-    
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Poppins:wght@500&family=Roboto:wght@400&family=Montserrat:wght@600&family=Lobster&family=Open+Sans:wght@400&family=Raleway:wght@500&display=swap" rel="stylesheet">
-    
-    <!-- External CSS -->
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typography Assignment</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat&family=Open+Sans&family=Poppins&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    <div class="mockup mockup1">
-        <h1>Portfolio Heading</h1>
-        <h2>Subheading Example</h2>
-        <p>This is a sample paragraph demonstrating font pairing. It explains the design style and readability.</p>
-        <nav>
-            <a href="#">Home</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
-        </nav>
-        <button onclick="switchFonts('mockup1')">Switch Fonts</button>
+  <!-- HERO SECTION -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Typography in Web Design</h1>
+      <p>Learn how fonts influence design, readability, and mood.</p>
+    </div>
+  </header>
+
+  <!-- MOCKUPS SECTION -->
+  <section id="mockups">
+    <h2>Typography Mockups</h2>
+
+    <!-- Mockup 1 -->
+    <div class="mockup" id="mockup1">
+      <h3>Mockup 1</h3>
+      <div class="buttons">
+        <button data-mockup="1" data-fonts="Libre Baskerville,Poppins,Open Sans,Montserrat">Font Set 1</button>
+        <button data-mockup="1" data-fonts="Montserrat,Open Sans,Poppins,Libre Baskerville">Font Set 2</button>
+      </div>
+      <h1 class="heading">Heading Example</h1>
+      <h2 class="subheading">Subheading Example</h2>
+      <p class="paragraph">Paragraph text example demonstrating body font.</p>
+      <nav class="navigation">Navigation Example</nav>
     </div>
 
-    <div class="mockup mockup2">
-        <h1>Creative Heading</h1>
-        <h2>Modern Subheading</h2>
-        <p>Paragraph text showing a playful, vibrant font combination with good readability.</p>
-        <nav>
-            <a href="#">Home</a>
-            <a href="#">Portfolio</a>
-            <a href="#">Blog</a>
-        </nav>
-        <button onclick="switchFonts('mockup2')">Switch Fonts</button>
+    <!-- Mockup 2 -->
+    <div class="mockup" id="mockup2">
+      <h3>Mockup 2</h3>
+      <div class="buttons">
+        <button data-mockup="2" data-fonts="Libre Baskerville,Poppins,Open Sans,Montserrat">Font Set 1</button>
+        <button data-mockup="2" data-fonts="Montserrat,Open Sans,Poppins,Libre Baskerville">Font Set 2</button>
+      </div>
+      <h1 class="heading">Heading Example</h1>
+      <h2 class="subheading">Subheading Example</h2>
+      <p class="paragraph">Paragraph text example demonstrating body font.</p>
+      <nav class="navigation">Navigation Example</nav>
     </div>
 
-    <div class="mockup mockup3">
-        <h1>Professional Heading</h1>
-        <h2>Elegant Subheading</h2>
-        <p>Another combination showing a mix of serif and sans-serif fonts for clarity and hierarchy.</p>
-        <nav>
-            <a href="#">Services</a>
-            <a href="#">Projects</a>
-            <a href="#">Contact</a>
-        </nav>
-        <button onclick="switchFonts('mockup3')">Switch Fonts</button>
+    <!-- Mockup 3 -->
+    <div class="mockup" id="mockup3">
+      <h3>Mockup 3</h3>
+      <div class="buttons">
+        <button data-mockup="3" data-fonts="Libre Baskerville,Poppins,Open Sans,Montserrat">Font Set 1</button>
+        <button data-mockup="3" data-fonts="Montserrat,Open Sans,Poppins,Libre Baskerville">Font Set 2</button>
+      </div>
+      <h1 class="heading">Heading Example</h1>
+      <h2 class="subheading">Subheading Example</h2>
+      <p class="paragraph">Paragraph text example demonstrating body font.</p>
+      <nav class="navigation">Navigation Example</nav>
     </div>
 
-    <div class="mockup mockup4">
-        <h1>Bold Heading</h1>
-        <h2>Stylish Subheading</h2>
-        <p>Final example showing experimental font pairings to explore mood and readability.</p>
-        <nav>
-            <a href="#">Home</a>
-            <a href="#">Gallery</a>
-            <a href="#">Contact</a>
-        </nav>
-        <button onclick="switchFonts('mockup4')">Switch Fonts</button>
+    <!-- Mockup 4 -->
+    <div class="mockup" id="mockup4">
+      <h3>Mockup 4</h3>
+      <div class="buttons">
+        <button data-mockup="4" data-fonts="Libre Baskerville,Poppins,Open Sans,Montserrat">Font Set 1</button>
+        <button data-mockup="4" data-fonts="Montserrat,Open Sans,Poppins,Libre Baskerville">Font Set 2</button>
+      </div>
+      <h1 class="heading">Heading Example</h1>
+      <h2 class="subheading">Subheading Example</h2>
+      <p class="paragraph">Paragraph text example demonstrating body font.</p>
+      <nav class="navigation">Navigation Example</nav>
     </div>
+  </section>
 
-    <!-- External JS -->
-    <script src="script.js"></script>
+  <!-- SUBMISSION TABLE -->
+  <section id="submission">
+    <h2>Submit Your Typography Choices</h2>
+    <p>Fill in your font choices and explanations below:</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Mockup #</th>
+          <th>Heading Font</th>
+          <th>Subheading Font</th>
+          <th>Paragraph Font</th>
+          <th>Navigation Font</th>
+          <th>Rationale</th>
+          <th>Mood/Tone</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+          <td contenteditable="true"></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>Typography Assignment Template – Web Design Practice</p>
+  </footer>
+
+  <script>
+    // Font-switching functionality
+    document.querySelectorAll(".buttons button").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const fonts = btn.getAttribute("data-fonts").split(",");
+        const mockupId = btn.getAttribute("data-mockup");
+        const mockup = document.getElementById("mockup" + mockupId);
+
+        mockup.querySelector(".heading").style.fontFamily = fonts[0];
+        mockup.querySelector(".subheading").style.fontFamily = fonts[1];
+        mockup.querySelector(".paragraph").style.fontFamily = fonts[2];
+        mockup.querySelector(".navigation").style.fontFamily = fonts[3];
+      });
+    });
+  </script>
+
 </body>
 </html>
