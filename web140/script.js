@@ -2,7 +2,7 @@
 const assignmentLinks = {
   htmlProject: "assignment1/index.html",
   colorTheory: "colorTheory/index.html",
-  typography: "https://example.com/typography",
+  typography: "typography/index.html",
   imageEditing: "https://example.com/image-editing-showcase",
   figma: "https://www.figma.com/proto/your-prototype-link",
   wordpress: "https://yourwordpresssite.wordpress.com",
