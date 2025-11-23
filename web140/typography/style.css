@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+
+.mockup {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin-bottom: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.mockup h2, .mockup p, .mockup nav { margin-top: 10px; }
+
+nav a { margin-right: 15px; text-decoration: none; }
+
+/* Default fonts for each mockup */
+.mockup1 h1 { font-family: 'Libre Baskerville', serif; font-size: 36px; color: #333; }
+.mockup1 h2 { font-family: 'Poppins', sans-serif; font-size: 22px; color: #666; }
+.mockup1 p { font-family: 'Roboto', sans-serif; font-size: 16px; color: #444; }
+.mockup1 nav a { font-family: 'Montserrat', sans-serif; color: #0077cc; }
+
+.mockup2 h1 { font-family: 'Lobster', cursive; font-size: 38px; color: #b23a48; }
+.mockup2 h2 { font-family: 'Raleway', sans-serif; font-size: 20px; color: #333; }
+.mockup2 p { font-family: 'Open Sans', sans-serif; font-size: 16px; color: #555; }
+.mockup2 nav a { font-family: 'Poppins', sans-serif; color: #007744; }
+
+.mockup3 h1 { font-family: 'Montserrat', sans-serif; font-size: 34px; color: #222; }
+.mockup3 h2 { font-family: 'Libre Baskerville', serif; font-size: 20px; color: #555; }
+.mockup3 p { font-family: 'Roboto', sans-serif; font-size: 16px; color: #666; }
+.mockup3 nav a { font-family: 'Raleway', sans-serif; color: #aa5500; }
+
+.mockup4 h1 { font-family: 'Poppins', sans-serif; font-size: 36px; color: #444; }
+.mockup4 h2 { font-family: 'Open Sans', sans-serif; font-size: 20px; color: #666; }
+.mockup4 p { font-family: 'Lobster', cursive; font-size: 16px; color: #333; }
+.mockup4 nav a { font-family: 'Montserrat', sans-serif; color: #cc0000; }
+
+button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    cursor: pointer;
+}
