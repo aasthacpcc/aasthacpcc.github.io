@@ -1,58 +1,55 @@
 Project Proposal & Design Document
-
-Course: Web Design / Figma / UX Design
-Repository Name: image-editing (for earlier work) or your chosen project repo
-
-🧠 1. Project Idea
+1. Project Overview
 
 Project Title:
-Team Members (if any):
+Student Name:
 
-🔍 Overview
-
-Write 2–3 paragraphs explaining your project idea:
+Write a clear explanation of your project idea (5–8 sentences). Include:
 
 What the website/app is about
 
-Who the target audience is
+Who will use it
 
 What problem it solves
 
-What main features you plan to build
+What pages or features you plan to include
 
-🖼️ 2. Canva Mockups
+2. Canva Mockups
 
-Create mockups for your idea using free Canva.
-These are simple designs to show your concept — not final visual design.
+Create simple mockups in Canva that show your planned pages or layout.
 
-Insert images below (export from Canva as PNG/JPG):
+Add exported images below:
 
-![Home Page Mockup](mockup-home.png)
-![Another Page Mockup](mockup-page2.png)
+Home Page Mockup
+
+Additional Mockups
 
 
-(You can replace file names after uploading images.)
 
-🔗 3. Assignment Links
 
-Paste your GitHub links here.
+(Replace filenames after uploading your images.)
 
-Assignment 1 – Figma Wireframes
+3. Assignment Links
+✔️ Assignment 1 — Figma Wireframes
 
-Link to GitHub:
+Paste your GitHub link here:
 
-Assignment 2 – Figma Interactive Prototype
+https://github.com/your-username/your-repo-wireframes
 
-Link to GitHub:
+✔️ Assignment 2 — Figma Interactive Prototype
 
-📝 4. Final Notes
+Paste your GitHub link here:
 
-Write a short reflection (5–6 sentences):
+https://github.com/your-username/your-repo-prototype
 
-What tools you used (Figma + Canva + GitHub)
+4. Reflection
 
-What you learned during wireframing and prototyping
+Write a short reflection (one paragraph). Suggested points:
 
-Any challenges you faced
+What you learned from using Figma and Canva
 
-What you would improve in the future
+What was easy vs. challenging
+
+How your design improved from wireframe → prototype
+
+What you would do next if you continued the project
