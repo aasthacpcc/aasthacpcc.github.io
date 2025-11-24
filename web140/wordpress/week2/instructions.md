@@ -2,7 +2,7 @@
 
 ## **Objective**
 
-Set up a live WordPress.com site and learn to create basic pages, posts, and navigation menus.
+Set up a live WordPress.com site, learn to create basic pages and posts, manage navigation, and understand basic security and user management.
 
 ---
 
@@ -13,6 +13,8 @@ Set up a live WordPress.com site and learn to create basic pages, posts, and nav
 * Pages vs Posts
 * Adding media and basic formatting
 * Creating menus
+* **Basic security:** strong passwords, two-factor authentication (2FA)
+* **User management:** adding users, assigning roles, understanding permissions
 
 ---
 
@@ -34,6 +36,15 @@ Set up a live WordPress.com site and learn to create basic pages, posts, and nav
 5. Add **two posts** with text and images.
 6. Create a **main menu** linking the pages.
 7. Preview the site on WordPress.com and navigate between pages/posts.
+8. **Security tasks:**
+
+   * Set a strong password
+   * Enable two-factor authentication (2FA)
+9. **User management tasks:**
+
+   * Add one additional user to your site
+   * Assign a role (e.g., Contributor, Editor)
+   * Explore the access limitations of that role
 
 ---
 
@@ -49,11 +60,16 @@ Set up a live WordPress.com site and learn to create basic pages, posts, and nav
 ## **Submission Requirements**
 
 * Submit the **live WordPress.com site link**.
+* Include a short note confirming:
+
+  * You set a strong password and enabled 2FA
+  * You added a new user and assigned a role
 
 ---
 
 ## **Outcome**
 
 * Students will have a live WordPress.com site with multiple pages and posts.
-* They will understand the basics of creating content online.
-* They will gain confidence using WordPress in a hosted environment.
+* Understand basic security best practices for WordPress.
+* Know how to add users, assign roles, and manage permissions.
+* Gain confidence in creating content online and managing a live site.
