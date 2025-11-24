@@ -1,8 +1,6 @@
-Project Proposal & Design Document
-1. Project Overview
+Project Proposal & Design Document ## Project Overview
 
-Project Title:
-Student Name:
+Project Title: Student Name:
 
 Write a clear explanation of your project idea (5–8 sentences). Include:
 
@@ -14,35 +12,33 @@ What problem it solves
 
 What pages or features you plan to include
 
-2. Canva Mockups
+## Canva Mockups
 
 Create simple mockups in Canva that show your planned pages or layout.
 
 Add exported images below:
 
-Home Page Mockup
+### Home Page Mockup
 
-Additional Mockups
-
-
-
+### Additional Mockups
 
 (Replace filenames after uploading your images.)
 
-3. Assignment Links
+## Assignment Links
+
 ✔️ Assignment 1 — Figma Wireframes
 
 Paste your GitHub link here:
 
-https://github.com/your-username/your-repo-wireframes
+[https://github.com/your-username/your-repo-wireframes](https://github.com/your-username/your-repo-wireframes)
 
 ✔️ Assignment 2 — Figma Interactive Prototype
 
 Paste your GitHub link here:
 
-https://github.com/your-username/your-repo-prototype
+[https://github.com/your-username/your-repo-prototype](https://github.com/your-username/your-repo-prototype)
 
-4. Reflection
+## Reflection
 
 Write a short reflection (one paragraph). Suggested points:
 
