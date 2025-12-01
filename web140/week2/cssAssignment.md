@@ -18,4 +18,13 @@ Style your quiz game to make it visually appealing.
 -   Style the quiz container, buttons, and text.
     
 -   Do **not** modify the HTML structure.
--   Submit web140 pages link
+## **Submission**
+
+-   Upload your project to your **`web140` GitHub repository or folder**.
+    
+-   Ensure **GitHub Pages** is enabled for your `username.github.io` repository.
+    
+-   Submit the **live GitHub Pages link** for your project:
+    
+
+`https://yourusername.github.io/web140/`
