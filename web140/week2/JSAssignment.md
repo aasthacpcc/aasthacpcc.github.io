@@ -1,4 +1,4 @@
-# **Week 3 Assignment – Step 3: JavaScript Interactivity**
+# **Step 3: JavaScript Interactivity**
 
 ## **Objective**
 
