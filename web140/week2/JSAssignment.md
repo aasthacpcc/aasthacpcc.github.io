@@ -11,7 +11,9 @@ Add interactivity to the quiz game so that clicking an answer shows correct/inco
 2.  Add the following code:
     
 
-`const buttons = document.querySelectorAll(".answer-btn"); const feedback = document.getElementById("feedback");  buttons.forEach(button => {   button.addEventListener("click", () => {     if(button.textContent === "Paris") {       feedback.textContent = "Correct! 🎉";       feedback.style.color = "green";     } else {       feedback.textContent = "Incorrect. ❌ Try again!";       feedback.style.color = "red";     }   }); });`
+`const buttons = document.querySelectorAll(".answer-btn"); 
+const feedback = document.getElementById("feedback");  
+buttons.forEach(button => {   button.addEventListener("click", () => {     if(button.textContent === "Paris") {       feedback.textContent = "Correct! 🎉";       feedback.style.color = "green";     } else {       feedback.textContent = "Incorrect. ❌ Try again!";       feedback.style.color = "red";     }   }); });`
 
 ## **Tasks**
 
