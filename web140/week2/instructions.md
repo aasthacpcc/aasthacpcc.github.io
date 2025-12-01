@@ -83,9 +83,3 @@ Breaking the structure will cause your JavaScript to fail, and points will be de
 
 ---
 
-If you'd like, I can also create:
-✅ A matching **CSS starter file**  
-✅ A **JavaScript file** that opens each project in a modal or new page  
-✅ A student-friendly **rubric**  
-
-Just tell me!
