@@ -1,4 +1,4 @@
-# **Week 2 Assignment – Step 2: CSS Styling**
+# **Step 2: CSS Styling**
 
 ## **Objective**
 
