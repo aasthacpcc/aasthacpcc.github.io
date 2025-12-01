@@ -42,7 +42,7 @@ This will be the homepage of your GitHub Pages website.
 ```html
 <h1>Welcome to My GitHub Site</h1>
 <p>This site will link to my WEB140 projects.</p>
-<p><a href="https://github.com/yourusername/web140">Visit my WEB140 repository</a></p>
+<p><a href="https://github.com/yourusername/web140">Visit my WEB140 repository</a></p>```
 4. Click Commit changes
 
 # Part 4: Create Your **web140** Repository or Folder
