@@ -20,4 +20,13 @@ Create the basic HTML structure for a simple quiz game.
 -   Do **not** add CSS or JavaScript yet.
     
 -   Save as `index.html`.
--   Submit your yourusername.github.io/web140 link
+## **Submission**
+
+-   Upload your project to your **`web140` GitHub repository or folder**.
+    
+-   Ensure **GitHub Pages** is enabled for your `username.github.io` repository.
+    
+-   Submit the **live GitHub Pages link** for your project:
+    
+
+`https://yourusername.github.io/web140/`
