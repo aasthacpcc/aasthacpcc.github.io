@@ -52,8 +52,4 @@ Students must submit **screenshots** of:
 
 ---
 
-## **Outcome**
 
-* Students will be comfortable navigating the WordPress dashboard.
-* Able to create pages, posts, and upload media.
-* Understand LocalWP as a **testing and learning environment** before moving to a live WordPress.com site.
