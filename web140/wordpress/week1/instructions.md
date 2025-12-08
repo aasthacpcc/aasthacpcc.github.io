@@ -1,53 +1,63 @@
-# **Week 1 – WordPress Fundamentals & LocalWP Setup**
+# Week 1 – WordPress Basics + Project Selection
+
+## **Objective**
+- Learn how to set up a WordPress site locally using **LocalWP**  
+- Understand the WordPress Dashboard, pages, posts, and basic content creation  
+- Choose a website project for the course
+
+---
 
 ## **Topics Covered**
-- What is WordPress? WordPress.com vs WordPress.org  
-- How websites are built using CMS  
-- The WordPress Dashboard  
-- Posts vs Pages (what they are and when to use each)  
-- Introduction to the Block Editor (Gutenberg)  
-- Creating your first Page & Post  
-- Adding basic text, headings, and images  
+- WordPress.com vs WordPress.org  
 - Introduction to LocalWP  
-- Setting up a local test site (this will be **graded**)  
+- Dashboard overview  
+- Posts vs Pages  
+- Creating a new post (text, images, links)  
+- Categories and tags  
+- How to create pages  
+- Turn on comments for blog posts
 
 ---
 
-# **Week 1 Assignment — WordPress Setup + First Content**
-
-## **Part 1 — LocalWP Setup (Required & Graded)**
-1. Download **LocalWP** (free).  
-2. Create a new local site named:  
-   `yourname-wp-local`
-3. Take **two screenshots**:
-   - LocalWP dashboard showing your site  
-   - Your WordPress Dashboard after logging in  
+## **Tasks / Exercises**
+1. Install **LocalWP** and create a new local site named `MyLocalSite`.  
+2. Explore the dashboard:
+   - Pages
+   - Posts
+   - Media library
+   - Menus
+   - Themes
+3. Create **one page** called `Home` with text.  
+4. Create **one post** with title, text, and an image.  
+5. Turn on comments for your post and add a test comment.  
+6. Write a **short project proposal**:
+   - Website type (portfolio, blog, small business, etc.)  
+   - Site title and tagline  
+   - Planned pages (at least 4)  
+   - Planned blog categories (at least 2)  
+   - A short paragraph describing audience and purpose  
 
 ---
 
-## **Part 2 — Create Basic Content**
-On your LocalWP site:
-
-### **Page 1: Home**
-- Add a title: **Home**
-- Add a paragraph introducing yourself  
-- Add a heading  
-- Add one image  
-
-### **Post 1: Your First Post**
-- Title: “My First Post in WordPress”
-- Add text  
-- Add one inline image  
-- Add a heading  
-- Publish the post  
+## **Project Ideas**
+- **Personal Portfolio** – Showcase skills, bio, projects  
+- **Small Business Website** – Bakery, fitness studio, hair salon  
+- **School Club / Organization Website** – Coding Club, Photography Club  
+- **Simple Online Magazine / Blog** – Travel, Food, Fashion  
+- **Class Website** – Syllabus, assignments, announcements  
 
 ---
 
 ## **Submission Requirements**
-Upload the following:
-
-✔ 2 screenshots (LocalWP + WP Dashboard)  
-✔ Link to your WordPress.com **free live site** (created but empty is fine)  
-✔ Confirmation text: “Week 1 setup complete.”
+- Screenshot of **LocalWP dashboard** with site created  
+- Screenshot of **Home page**  
+- Screenshot of **one post with comments enabled**  
+- Short **project proposal document** (Word or PDF)
 
 ---
+
+## **Outcome**
+By the end of Week 1, students will have:
+- A working LocalWP site  
+- A basic page and post with media and comments enabled  
+- Selected a project and planned pages/categories for Weeks 2–4
