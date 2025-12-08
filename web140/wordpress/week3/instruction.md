@@ -1,44 +1,40 @@
-# **Week 3 – Customizing Your WordPress Site**
+# Week 3 – Themes, Menus, Customization
+
+## **Objective**
+- Learn to customize your WordPress theme  
+- Build navigation menus  
+- Add widgets and static homepage  
+- Prepare site for final project features
+
+---
 
 ## **Topics Covered**
-- Creating and customizing navigation menus  
-- Adding and arranging widgets  
-- Using the Site Customizer  
-- Creating a **Static Homepage**  
-- Installing and configuring themes  
-- Installing your first plugin: **Jetpack (free)**  
-- Using design blocks (columns, groups, cover images, buttons, patterns)  
-- Improving layout and structure  
+- Custom menus  
+- Widgets (sidebar/footer)  
+- Create a static homepage  
+- Theme customization (colors, fonts, header)  
+- Explore free themes in WordPress.com
 
 ---
 
-# **Week 3 Assignment — Site Structure & Customization**
-
-On **WordPress.com**, complete the following:
-
-### **1. Create a Navigation Menu**
-Menu must include:
-- Home  
-- About  
-- Contact  
-- A submenu item under About (example: “My Skills”)  
-
-### **2. Set a Static Homepage**
-- Create a new page called **Homepage**
-- Set it as your site’s front page  
-
-### **3. Customize Appearance**
-- Choose a free theme  
-- Customize colors, fonts, and layout  
-- Add at least **two widgets** (footer or sidebar)  
-
-### **4. Install Jetpack**
-- Install Jetpack (free)  
-- Enable site stats & downtime monitoring  
+## **Tasks / Exercises**
+1. Customize your theme: colors, fonts, header image.  
+2. Set a **static homepage** for your site.  
+3. Create a **main menu** linking all key pages.  
+4. Add **widgets** to sidebar or footer (e.g., recent posts, categories).  
+5. Check responsiveness on smaller screen sizes.  
+6. Ensure all posts have comments enabled.
 
 ---
 
-## **Submission Requirement**
-✔ Submit your **WordPress.com live site link**
+## **Submission Requirements**
+- Live WordPress.com site link  
+- Screenshot of **static homepage with menu**  
+- Screenshot of **widgets added**  
+- Screenshot of one page showing **customized theme**
 
 ---
+
+## **Outcome**
+- Students will have a functional, navigable WordPress site  
+- Site is visually consistent with customized theme and menus
