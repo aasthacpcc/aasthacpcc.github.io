@@ -1,64 +1,45 @@
-# **Week 4 – Site Management & Final WordPress Project**
+# Week 4 – Final Project & Advanced Features
+
+## **Objective**
+- Add a **contact form** using Jetpack  
+- Manage users, profiles, and permissions  
+- Finalize pages, posts, and media  
+- Prepare site for submission
+
+---
 
 ## **Topics Covered**
+- Install and use **Jetpack Contact Form**  
 - Media Library management  
-- Managing comments (including Gravatars)  
-- Adding new users  
-- Editing your profile  
-- WordPress Tools  
-- WordPress Settings (timezone, date format, reading settings, permalinks)  
-- Responsive design considerations  
-- Final Project Build  
+- Manage users and edit profiles  
+- WordPress settings overview (timezone, date/time, week start, site title/tagline)  
+- Final site testing (comments, navigation, responsiveness)
 
 ---
 
-# **Week 4 Assignment — Final WordPress Project**
-
-Create a **3-page WordPress.com site** based on your chosen topic.
-
-Your site **must include** all of the following (matching your final project list):
-
-## **Site Settings**
-- Set **Site Title**  
-- Set **Tagline**  
-- Set **Timezone**  
-- Set **Date and Time Format**  
-- Set **Week Starts On**  
-
-## **Content Requirements**
-- Correct metadata (titles/headings)  
-- Use sectioning + grouping + inline text elements  
-- At least **one submenu**  
-- At least **three images**  
-- At least **one inline image**  
-- At least **one animated image** (GIF)  
-- At least **one video with audio**  
-- One embedded PDF or downloadable file  
-- Navigation with hypertext links  
-- At least one image paired with content  
-- A slideshow (WordPress or Jetpack)  
-- Sharing buttons on one page or post  
-- A formatted form with multiple fieldsets  
-- Responsive design for mobile  
-
-## **Comments & Users**
-- Add one comment with a **Gravatar**  
-- Ensure the Gravatar has a rating  
-- Add an additional **User** (Contributor role)  
+## **Tasks / Exercises**
+1. Add a **contact form** on the Contact page using Jetpack.  
+2. Verify **media library** and all images/videos uploaded correctly.  
+3. Add or edit users as needed (for collaborators).  
+4. Verify comments on posts work correctly.  
+5. Check **site settings**: title, tagline, timezone, date format, week start.  
+6. Review all pages, posts, menus, widgets, and form functionality.  
+7. Submit **clickable final project link**: `https://yourusername.wordpress.com`  
 
 ---
 
-## **Submission Requirement**
-✔ Submit your **final project live WordPress.com URL**
+## **Submission Requirements**
+- Submit **live WordPress.com site link**  
+- All pages, posts, menus, widgets, comments, and contact form functional  
 
 ---
 
-# **Outcome**
-By end of Week 4 students will have:
-- A fully functional WordPress website  
-- Complete understanding of WordPress basics → customization → management  
-- Experience using LocalWP  
-- Experience deploying content using WordPress.com  
-- Everything required for the final graded project  
-
----
+## **Outcome**
+By the end of Week 4, students will have:
+- Fully functional WordPress website with 3+ pages and 3+ posts  
+- Static homepage, custom menus, widgets  
+- Contact form via Jetpack  
+- Comments enabled on blog posts  
+- All site settings correctly configured  
+- Responsive design across devices  
+- Final clickable live project link ready for grading
