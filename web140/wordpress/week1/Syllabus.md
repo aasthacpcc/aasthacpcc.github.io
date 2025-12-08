@@ -48,7 +48,7 @@
 - [WPBeginner: WordPress 101](https://www.wpbeginner.com/guides/)
 - [LocalWP Documentation](https://localwp.com/help-docs/)
 - [WordPress.com Beginner Guide](https://wordpress.com/learn/)
-- **How to Set Up WordPress Using Local WP (Expert Tutorial)** ![Tutorial](./5a4f1998-493e-4f11-a139-6c4f845823e8.png)
+- [How to Set Up WordPress Using Local WP (Expert Tutorial)](https://www.wpbeginner.com/wp-tutorials/how-to-install-wordpress-locally-on-windows-and-mac/)
 
 ---
 
