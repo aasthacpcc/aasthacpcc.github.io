@@ -1,75 +1,45 @@
-# Week 2 – Hosting on WordPress.com & Basic Content
+# **Week 2 – Creating WordPress Content (Posts + Pages)**
 
-## **Objective**
-
-Set up a live WordPress.com site, learn to create basic pages and posts, manage navigation, and understand basic security and user management.
-
----
-
-## **Topics**
-
-* Creating a free WordPress.com account
-* Overview of hosted WordPress dashboard
-* Pages vs Posts
-* Adding media and basic formatting
-* Creating menus
-* **Basic security:** strong passwords, two-factor authentication (2FA)
-* **User management:** adding users, assigning roles, understanding permissions
+## **Topics Covered**
+- Creating posts using the Block Editor  
+- Creating pages  
+- Adding images, galleries, and featured images  
+- Creating links and buttons  
+- Embedding PDFs, video, and audio  
+- Categories and Tags  
+- Editing existing content  
 
 ---
 
-## **Tasks / Exercises**
+# **Week 2 Assignment — Build a Multi-Page Starter Site**
 
-1. Create a free account on **WordPress.com**.
-2. Create a new live site (e.g., “MyLiveSite”).
-3. Explore the dashboard:
+On **WordPress.com**, create a simple 3-page website.
 
-   * Pages
-   * Posts
-   * Media library
-   * Menu creation
-   * Themes
-4. Add **two pages**:
+## **Required Pages**
+### **1. Home Page**
+Must include:
+- Heading  
+- Paragraph  
+- Button linking to the About page  
+- One image  
+- A featured image  
 
-   * Home
-   * About
-5. Add **two posts** with text and images.
-6. Create a **main menu** linking the pages.
-7. Preview the site on WordPress.com and navigate between pages/posts.
-8. **Security tasks:**
+### **2. About Page**
+Must include:
+- Two paragraphs  
+- One image gallery (2–3 images)  
+- A list (ordered or unordered)  
 
-   * Set a strong password
-   * Enable two-factor authentication (2FA)
-9. **User management tasks:**
-
-   * Add one additional user to your site
-   * Assign a role (e.g., Contributor, Editor)
-   * Explore the access limitations of that role
+### **3. Contact Page**
+Must include:
+- Heading  
+- Paragraph introduction  
+- An embedded PDF (can be blank)  
+- An embedded YouTube or Vimeo video  
 
 ---
 
-## **Website Ideas for Live Site**
-
-* **Personal Portfolio** – Showcase skills, bio, and sample posts.
-* **Blog** – Share personal thoughts or a short topic-related series of posts.
-* **Small Business Demo** – Homepage for a fictional business with About page and blog/news.
-* **Club or Event Page** – Information about a club, event, or workshop with images and posts.
+## **Submission Requirement**
+✔ Submit your **WordPress.com live site link**
 
 ---
-
-## **Submission Requirements**
-
-* Submit the **live WordPress.com site link**.
-* Include a short note confirming:
-
-  * You set a strong password and enabled 2FA
-  * You added a new user and assigned a role
-
----
-
-## **Outcome**
-
-* Students will have a live WordPress.com site with multiple pages and posts.
-* Understand basic security best practices for WordPress.
-* Know how to add users, assign roles, and manage permissions.
-* Gain confidence in creating content online and managing a live site.
