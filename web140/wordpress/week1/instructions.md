@@ -1,55 +1,53 @@
-# Week 1 – Introduction & Local WordPress Setup
+# **Week 1 – WordPress Fundamentals & LocalWP Setup**
 
-## **Objective**
-
-Learn the WordPress dashboard and basic site creation using **LocalWP**. This is a safe environment to explore WordPress before building a live site.
-
----
-
-## **Topics**
-
-* WordPress basics: WordPress.com vs WordPress.org
-* Introduction to LocalWP
-* Dashboard overview
-* Pages vs Posts
-* Simple content creation
+## **Topics Covered**
+- What is WordPress? WordPress.com vs WordPress.org  
+- How websites are built using CMS  
+- The WordPress Dashboard  
+- Posts vs Pages (what they are and when to use each)  
+- Introduction to the Block Editor (Gutenberg)  
+- Creating your first Page & Post  
+- Adding basic text, headings, and images  
+- Introduction to LocalWP  
+- Setting up a local test site (this will be **graded**)  
 
 ---
 
-## **Tasks / Exercises**
+# **Week 1 Assignment — WordPress Setup + First Content**
 
-1. Install **LocalWP** and create a new local site (e.g., “MyLocalSite”).
-2. Explore the dashboard:
-
-   * Pages
-   * Posts
-   * Media library
-   * Menus
-   * Themes
-3. Create **one page** called “Home” with a small paragraph of text.
-4. Create **one post** with a title, some text, and an image.
-5. Preview the site in a browser using LocalWP.
-6. Switch themes to see the differences in layout and design.
+## **Part 1 — LocalWP Setup (Required & Graded)**
+1. Download **LocalWP** (free).  
+2. Create a new local site named:  
+   `yourname-wp-local`
+3. Take **two screenshots**:
+   - LocalWP dashboard showing your site  
+   - Your WordPress Dashboard after logging in  
 
 ---
 
-## **Website Ideas for Practice**
+## **Part 2 — Create Basic Content**
+On your LocalWP site:
 
-* **Personal Portfolio** – Showcase your name, skills, and a short bio.
-* **Mini Blog** – One post with your thoughts or an introduction about yourself.
-* **Small Business Demo** – A home page for a fictional shop or cafe with text and one image.
-* **Event or Club Page** – Basic page describing a club or event, including a short paragraph and image.
+### **Page 1: Home**
+- Add a title: **Home**
+- Add a paragraph introducing yourself  
+- Add a heading  
+- Add one image  
+
+### **Post 1: Your First Post**
+- Title: “My First Post in WordPress”
+- Add text  
+- Add one inline image  
+- Add a heading  
+- Publish the post  
 
 ---
 
 ## **Submission Requirements**
+Upload the following:
 
-Students must submit **screenshots** of:
-
-1. LocalWP **site settings** page
-2. WordPress **dashboard showing created page and post**
-3. Final look of **Home page** in browser preview
+✔ 2 screenshots (LocalWP + WP Dashboard)  
+✔ Link to your WordPress.com **free live site** (created but empty is fine)  
+✔ Confirmation text: “Week 1 setup complete.”
 
 ---
-
-
