@@ -1,4 +1,5 @@
-Project Proposal & Design Document ## Project Overview
+Project Proposal & Design Document 
+## Project Overview
 
 Project Title: Student Name:
 
